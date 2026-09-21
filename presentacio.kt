@@ -1,1 +1,1 @@
-println("Benvingut, em dic Joel Mias!")
+println("Benvingut, em dic Joel Mias i estic cursant DAM2!")
